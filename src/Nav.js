@@ -16,6 +16,11 @@ export default class Nav {
           labels: 'Feeds',
           screen: 'Instacat.FeedsScreen',
           title: 'Instacat'
+        },
+        {
+          labels: 'SecondScreen',
+          screen: 'Instacat.SecondScreen',
+          title: 'Second'
         }
       ]
     })
